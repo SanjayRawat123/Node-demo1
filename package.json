@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learing node.js",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjayRawat123/Node-demo1.git"
+  },
+  "author": "Sanjay Singh Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjayRawat123/Node-demo1/issues"
+  },
+  "homepage": "https://github.com/SanjayRawat123/Node-demo1#readme"
+}
